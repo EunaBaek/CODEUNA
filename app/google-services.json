@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615132314002",
+    "project_id": "beautyfinder-i",
+    "storage_bucket": "beautyfinder-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615132314002:android:a311d99e082fc6e739a94b",
+        "android_client_info": {
+          "package_name": "com.euna.beautyfinder_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUahmbxI8fNjRN_Y5bvZ2bYIrT4p0jgoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
